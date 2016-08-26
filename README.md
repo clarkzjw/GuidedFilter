@@ -1,6 +1,10 @@
 # GuidedFilter
 This repo contains different implementations of [Guided Filter](http://research.microsoft.com/en-us/um/people/kahe/eccv10/).
 
+**Update**:
+I reported this to opencv_contrib maintainer, see issues here https://github.com/opencv/opencv_contrib/issues/760
+
+
 ## Why
 Why would I set this repo?
 
